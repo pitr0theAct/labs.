@@ -1,0 +1,3 @@
+C:/git/lab4.1/CMakeFiles/test.dir
+C:/git/lab4.1/CMakeFiles/ALL_BUILD.dir
+C:/git/lab4.1/CMakeFiles/ZERO_CHECK.dir
