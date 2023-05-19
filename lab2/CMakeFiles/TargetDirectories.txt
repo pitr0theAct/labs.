@@ -1,0 +1,3 @@
+C:/Git/lab2/CMakeFiles/main.cpp.dir
+C:/Git/lab2/CMakeFiles/ALL_BUILD.dir
+C:/Git/lab2/CMakeFiles/ZERO_CHECK.dir
