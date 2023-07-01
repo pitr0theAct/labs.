@@ -1,7 +1,0 @@
-﻿  Animation.cpp
-C:\Users\Andrew\source\repos\FirstProject\FirstProject\Ball.hpp(2,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
-  Ball.cpp
-C:\Users\Andrew\source\repos\FirstProject\FirstProject\Ball.hpp(2,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
-  FirstProject.cpp
-C:\Users\Andrew\source\repos\FirstProject\FirstProject\Ball.hpp(2,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
-  Создание кода...
